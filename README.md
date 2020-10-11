@@ -5,3 +5,4 @@ To access google slides please use this -> [https://docs.google.com/presentation
 # References
 
 - Docker Installation -> [https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
+- Docker cheatsheet -> [https://github.com/wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
