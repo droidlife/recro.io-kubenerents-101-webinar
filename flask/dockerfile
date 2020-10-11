@@ -1,0 +1,7 @@
+FROM alpine:3.7
+RUN apk add python3
+RUN apk add py3-pip
+COPY . /home
+WORKDIR /home
+RUN pip3 install -r requirements.txt
+ENTRYPOINT ["python3", "run.py"]
